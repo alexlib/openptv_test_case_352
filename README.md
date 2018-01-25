@@ -10,3 +10,8 @@ A copy of the raw data is available from the Google Drive folder https://drive.g
 Please respect the copyright of the original authors: 
 
 https://web.archive.org/web/20161028235456/http://piv.jp/image3d/image-e.html
+
+
+## The result in in Jupyter notebook
+
+https://github.com/alexlib/openptv_test_case_352/blob/master/notebooks/ptv_is_case352.ipynb
